@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tzyk
-- 👀 I’m interested in Bioinformatics
+- 👀 I’m interested in physics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me antonzoltan@gmx.de

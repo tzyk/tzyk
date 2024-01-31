@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tzyk
+- 👋 Hi, I’m Anton
 - 👀 I’m interested in physics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everything

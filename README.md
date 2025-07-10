@@ -1,5 +1,5 @@
 - I’m Anton
-- I’m interested in physics
+- I’m studying physics
 - I’m currently learning Python
 - I’m looking to collaborate on everything
 - How to reach me: antonzoltan@gmx.de
